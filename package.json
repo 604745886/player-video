@@ -1,0 +1,16 @@
+{
+  "name": "player-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "audit:public": "node scripts/audit-publication.mjs",
+    "voice:elevenlabs": "node scripts/create-elevenlabs-voiceover.mjs",
+    "profile:voice:elevenlabs": "node scripts/create-profile-elevenlabs-voiceover.mjs",
+    "profile:audio:prepare": "node scripts/prepare-profile-audio.mjs",
+    "profile:validate": "node scripts/validate-profile-episode.mjs",
+    "profile:voice:edge": ".venv-edge\\Scripts\\python.exe scripts/create-edge-voiceover.py",
+    "profile:preview": "node scripts/create-profile-preview.mjs",
+    "profile:render": "node scripts/render-profile-final.mjs"
+  }
+}
