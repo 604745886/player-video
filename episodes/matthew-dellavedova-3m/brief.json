@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "profile": "profile-3m-v1",
+  "episode": {
+    "slug": "matthew-dellavedova-3m",
+    "language": "zh-CN",
+    "targetDurationSeconds": 180,
+    "aspect": "3:4"
+  },
+  "subject": {
+    "type": "nba_player",
+    "displayName": "马修·德拉维多瓦",
+    "legalName": "Matthew Dellavedova",
+    "aliases": ["Delly", "德拉维多瓦", "德拉"],
+    "subtitle": "把每个回合，打到最后一厘米"
+  },
+  "story": {
+    "angle": "技术统计之外，一名角色球员如何把每个回合打到尽头",
+    "scriptVersion": "v1",
+    "chapters": ["hook", "identity", "origin", "undrafted", "grind", "finals", "cost", "legacy", "last_possession"]
+  },
+  "intro": {
+    "durationSeconds": 10,
+    "seriesLabel": "三分钟认识一位NBA球星",
+    "spokenLine": "三分钟认识一位NBA球星。今天介绍的是，马修德拉维多瓦。",
+    "candidates": ["史蒂夫·纳什", "托尼·帕克", "拉简·隆多", "何塞·巴里亚", "亚历克斯·卡鲁索", "T.J.·麦康奈尔"]
+  },
+  "visual": {
+    "theme": "arena-dark-grit",
+    "assetMode": "original-generated",
+    "forbidden": ["logos", "watermarks", "broadcast-frames", "social-downloads"]
+  },
+  "audio": {
+    "provider": "edge-tts-mvp",
+    "voiceName": "zh-CN-YunxiNeural",
+    "rate": "+35%",
+    "releaseProvider": "human-or-xunfei",
+    "preset": "story",
+    "bgm": "your-licensed-bgm.mp3"
+  },
+  "render": {
+    "width": 720,
+    "height": 960,
+    "fps": 30,
+    "maximumDurationSeconds": 210
+  }
+}

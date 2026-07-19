@@ -1,0 +1,6 @@
+asset_id,prompt_summary,tool,source,review_status
+hero-title,"德拉维多瓦式澳大利亚后卫在深色球馆通道中的电影感肖像，下部字幕留白，无Logo",imagegen,built-in-imagegen,approved
+origin-campus,"年轻澳大利亚后卫从大学砖墙球馆走向空白职业舞台，象征大学纪录与落选，无Logo",imagegen,built-in-imagegen,approved
+finals-defense,"原创总决赛追防场景，德拉式后卫提高对方控卫出手难度，酒红与金色，无球队标",imagegen,built-in-imagegen,approved
+cost-recovery,"赛后更衣室安静恢复，远处输液架剪影，不渲染急救或脱水诊断，无Logo",imagegen,built-in-imagegen,approved
+legacy-road,"成熟澳大利亚后卫走向下一回合，四道奥运光柱、铜色光和冠军圆环隐喻，无标志",imagegen,built-in-imagegen,approved

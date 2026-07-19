@@ -1,0 +1,7 @@
+{
+  "id": "athlete",
+  "seriesLabel": "三分钟认识一位体育明星",
+  "chapters": ["hook", "identity", "origin", "breakthrough", "signature", "setback", "legacy"],
+  "researchSources": ["federation", "event_organizer", "team", "first_person"],
+  "forbiddenMedia": ["broadcast_frames", "event_logos", "social_downloads"]
+}

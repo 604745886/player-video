@@ -1,0 +1,12 @@
+{
+  "seriesLabel": "三分钟认识一位NBA球星",
+  "target": { "title": "JR·史密斯", "subtitle": "16 SEASONS · 2 RINGS" },
+  "candidates": [
+    { "title": "阿伦·艾弗森", "meta": "ANSWER" },
+    { "title": "文斯·卡特", "meta": "HALF MAN · HALF AMAZING" },
+    { "title": "德克·诺维茨基", "meta": "41" },
+    { "title": "蒂姆·邓肯", "meta": "THE BIG FUNDAMENTAL" },
+    { "title": "斯蒂芬·库里", "meta": "30" },
+    { "title": "特雷西·麦克格雷迪", "meta": "T-MAC" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "singer",
+  "seriesLabel": "三分钟认识一位流行歌手",
+  "chapters": ["hook", "identity", "origin", "debut", "signature", "turning_point", "influence"],
+  "researchSources": ["artist_official", "label", "award_organizer", "first_person"],
+  "forbiddenMedia": ["music_videos", "concert_bootlegs", "lyrics", "social_downloads"]
+}

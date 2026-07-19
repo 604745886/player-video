@@ -1,0 +1,8 @@
+{
+  "id": "dog_breed",
+  "seriesLabel": "三分钟认识一个狗狗品种",
+  "chapters": ["hook", "identity", "origin", "appearance", "temperament", "exercise", "care", "health", "fit"],
+  "researchSources": ["FCI", "AKC", "CKU", "veterinary"],
+  "forbiddenMedia": ["unlicensed_photos", "social_downloads"],
+  "medicalDisclaimerRequired": true
+}

@@ -1,0 +1,12 @@
+{
+  "seriesLabel": "三分钟认识一位NBA球星",
+  "target": { "title": "马修·德拉维多瓦", "subtitle": "UNDRAFTED · NBA & NBL CHAMPION" },
+  "candidates": [
+    { "title": "史蒂夫·纳什", "meta": "TWO-TIME MVP" },
+    { "title": "托尼·帕克", "meta": "FINALS MVP" },
+    { "title": "拉简·隆多", "meta": "FLOOR GENERAL" },
+    { "title": "何塞·巴里亚", "meta": "CHAMPION" },
+    { "title": "亚历克斯·卡鲁索", "meta": "DEFENSE" },
+    { "title": "T.J.·麦康奈尔", "meta": "HUSTLE" }
+  ]
+}

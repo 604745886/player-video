@@ -1,0 +1,44 @@
+{
+  "episode": "jr-smith-3m",
+  "profile": "profile-3m-v1",
+  "status": "passed",
+  "file": "renders/jr-smith-3m-2a350ef679-profile-3m-final-起风了.mp4",
+  "sha256": "0FFF1DBF66E0947ACE7487608A19DA08BF84FA2A52DDBE9483E5BEAF4106EC59",
+  "media": {
+    "durationSeconds": 182.366667,
+    "width": 720,
+    "height": 960,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "audio": {
+    "provider": "edge-tts-mvp",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+35%",
+    "integratedLufs": -14.25,
+    "truePeakDbtp": -3.94,
+    "loudnessRangeLu": 1.9
+  },
+  "content": {
+    "scriptRows": 58,
+    "verifiedClaims": 9,
+    "factCheck": "passed",
+    "originalVisualsOnly": true
+  },
+  "checks": {
+    "episodeValidator": "passed",
+    "javascriptSyntax": "passed",
+    "pythonSyntax": "passed",
+    "hyperframesLint": "0 errors, 0 warnings",
+    "browserValidation": "35 text elements pass WCAG AA; no console errors",
+    "layoutInspection": "0 issues at explicit chapter timestamps",
+    "keyframeReview": "passed",
+    "audioLevelGate": "passed",
+    "finalStreamProbe": "passed",
+    "repositoryCheck": "passed"
+  },
+  "releaseNote": "The MVP narration uses standard Mandarin Edge TTS. For a public release, replace it with a licensed human or Xunfei narration and regenerate only the audio timing and final mix stages."
+}

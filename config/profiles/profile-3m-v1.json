@@ -1,0 +1,9 @@
+{
+  "id": "profile-3m-v1",
+  "description": "Reusable three-minute documentary profile",
+  "duration": { "target": 180, "minimum": 160, "maximum": 210 },
+  "script": { "minimumLines": 36, "maximumLines": 72, "minimumChineseChars": 600, "maximumChineseChars": 1000 },
+  "render": { "width": 720, "height": 960, "fps": 30, "quality": "high" },
+  "intro": { "duration": 10, "candidateCount": 6 },
+  "audio": { "voiceTargetLufs": -16, "finalTargetLufs": -14, "truePeakDbtp": -1 }
+}

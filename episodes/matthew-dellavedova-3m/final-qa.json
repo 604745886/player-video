@@ -1,0 +1,47 @@
+{
+  "episode": "matthew-dellavedova-3m",
+  "profile": "profile-3m-v1",
+  "status": "passed",
+  "file": "renders/matthew-dellavedova-3m-9c2e0d76a1-profile-3m-final-起风了.mp4",
+  "sha256": "8886B4C5BA010B1DD45FA77E523209FED3850D179DFF1DCFD53AE922D9234E93",
+  "media": {
+    "durationSeconds": 175.333333,
+    "width": 720,
+    "height": 960,
+    "fps": 30,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "sampleRate": 48000,
+    "channels": 2,
+    "sizeBytes": 47721552
+  },
+  "audio": {
+    "provider": "edge-tts-mvp",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+35%",
+    "integratedLufs": -14.3,
+    "truePeakDbtp": -3.89,
+    "loudnessRangeLu": 2.6
+  },
+  "content": {
+    "scriptRows": 62,
+    "chineseCharacters": 891,
+    "verifiedClaims": 19,
+    "factCheck": "approved_after_one_revision",
+    "originalVisualsOnly": true,
+    "forbiddenPhrasesAbsent": ["单人锁死库里", "防到脱水", "目前效力墨尔本联"]
+  },
+  "checks": {
+    "episodeValidator": "passed with 0 errors and 0 warnings",
+    "factCheckAgent": "approved",
+    "hyperframesLint": "0 errors, 0 warnings",
+    "browserValidation": "37 text elements pass WCAG AA; no console errors",
+    "layoutInspection": "0 issues across 13 explicit timestamps",
+    "captionAlignment": "62 of 62 sentence boundaries mapped",
+    "keyframeReview": "passed across 9 timestamps",
+    "audioLevelGate": "passed",
+    "finalStreamProbe": "passed",
+    "repositoryCheck": "passed"
+  },
+  "releaseNote": "The MVP narration uses standard Mandarin Edge TTS. A licensed human or Xunfei narration can replace it by regenerating only the audio timing and final mix stages."
+}

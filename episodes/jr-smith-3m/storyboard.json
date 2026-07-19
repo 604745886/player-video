@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "scenes": [
+    { "id": "hook-memory", "chapter": "hook", "assetId": "hook-shadow", "kicker": "ONE PLAY / ONE MEMORY", "stat": "1", "label": "MOMENT", "title": "一个回合，能不能定义一段人生？", "layout": "hero", "motion": "slow-push", "drift": [-10, 6] },
+    { "id": "identity-card", "chapter": "identity", "assetId": "hero-title", "kicker": "EARL JOSEPH SMITH III", "stat": "16", "label": "SEASONS", "title": "JR·史密斯", "layout": "stat-left", "motion": "focus-pull", "drift": [8, -5] },
+    { "id": "origin-rise", "chapter": "origin", "assetId": "young-pro", "kicker": "2004 / FIRST ROUND", "stat": "18", "label": "PICK", "title": "从高中，直接走进联盟", "layout": "timeline", "motion": "vertical-pan", "drift": [10, -10] },
+    { "id": "volatility-fire", "chapter": "volatility", "assetId": "volatile-scorer", "kicker": "ABILITY / RISK", "stat": "?", "label": "NEXT SHOT", "title": "天赋与风险，总在同一场比赛里", "layout": "split", "motion": "horizontal-pan", "drift": [-14, 2] },
+    { "id": "sixth-man", "chapter": "award", "assetId": "award-image", "kicker": "2012—13 / NEW YORK", "stat": "18.1", "label": "POINTS", "title": "八十场替补，最佳第六人", "layout": "data", "motion": "slow-push", "drift": [12, 8] },
+    { "id": "game-seven", "chapter": "finals", "assetId": "game-seven", "kicker": "2016 / GAME 7", "stat": "8", "label": "STRAIGHT POINTS", "title": "第三节开场，把比赛重新拉回原点", "layout": "climax", "motion": "gold-flash", "drift": [8, 10] },
+    { "id": "gaffe-shadow", "chapter": "gaffe", "assetId": "gaffe-shadow", "kicker": "2018 / FINALS GAME 1", "stat": "00", "label": "LAST POSSESSION", "title": "错误被反复播放，人生却还在继续", "layout": "shadow", "motion": "focus-pull", "drift": [-6, 5] },
+    { "id": "college-restart", "chapter": "restart", "assetId": "college-restart", "kicker": "2021 / A NEW COURSE", "stat": "35", "label": "STUDENT ATHLETE", "title": "离开球场，再一次开球", "layout": "warm", "motion": "slow-push", "drift": [-8, 12] },
+    { "id": "legacy-road", "chapter": "legacy", "assetId": "legacy-road", "kicker": "THE FULL STORY", "stat": "2", "label": "RINGS", "title": "别让一个回合，代替整段人生", "layout": "ending", "motion": "gentle-drift", "drift": [5, -7] }
+  ]
+}

@@ -1,0 +1,10 @@
+asset_id,kind,source_type,local_path,license,rights_status,notes
+hero-title,image,ai_generated,episodes/jr-smith/images/portrait-title.png,provider_terms,cleared,"原创人物氛围图，无Logo"
+legacy-road,image,ai_generated,episodes/jr-smith/images/portrait-title.png,provider_terms,cleared,"原创人物氛围图的片尾独立实例，无Logo"
+young-pro,image,ai_generated,episodes/jr-smith/images/young-pro.png,provider_terms,cleared,"原创青年球员氛围图，无Logo"
+volatile-scorer,image,ai_generated,episodes/jr-smith/images/portrait-award.png,provider_terms,cleared,"原创球员肖像，无Logo"
+award-image,image,ai_generated,episodes/jr-smith/images/portrait-award.png,provider_terms,cleared,"原创奖项章节独立实例，无Logo"
+game-seven,image,ai_generated,episodes/jr-smith/images/game-seven.png,provider_terms,cleared,"原创抢七氛围图，无Logo"
+college-restart,image,ai_generated,episodes/jr-smith/images/college-golf.png,provider_terms,cleared,"原创校园高尔夫图，无Logo"
+gaffe-shadow,image,ai_generated,episodes/jr-smith-3m/images/gaffe-shadow.png,provider_terms,cleared,"原创赛后空场图，无Logo"
+hook-shadow,image,ai_generated,episodes/jr-smith-3m/images/gaffe-shadow.png,provider_terms,cleared,"原创钩子章节独立实例，无Logo"

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "profile": "profile-3m-v1",
+  "episode": {
+    "slug": "jr-smith-3m",
+    "language": "zh-CN",
+    "targetDurationSeconds": 180,
+    "aspect": "3:4"
+  },
+  "subject": {
+    "type": "nba_player",
+    "displayName": "JR·史密斯",
+    "legalName": "Earl Joseph Smith III",
+    "aliases": ["JR Smith"],
+    "subtitle": "别让一个回合，代替整段人生"
+  },
+  "story": {
+    "angle": "公众记忆与完整生涯之间的反差",
+    "scriptVersion": "v1",
+    "chapters": ["hook", "identity", "origin", "volatility", "award", "finals", "gaffe", "restart", "legacy"]
+  },
+  "intro": {
+    "durationSeconds": 10,
+    "seriesLabel": "三分钟认识一位NBA球星",
+    "spokenLine": "三分钟认识一位NBA球星。今天介绍的是，JR史密斯。",
+    "candidates": ["阿伦·艾弗森", "文斯·卡特", "德克·诺维茨基", "蒂姆·邓肯", "斯蒂芬·库里", "特雷西·麦克格雷迪"]
+  },
+  "visual": {
+    "theme": "arena-dark",
+    "assetMode": "original-generated",
+    "forbidden": ["logos", "watermarks", "broadcast-frames", "social-downloads"]
+  },
+  "audio": {
+    "provider": "edge-tts-mvp",
+    "voiceName": "zh-CN-YunxiNeural",
+    "rate": "+35%",
+    "releaseProvider": "human-or-xunfei",
+    "preset": "story",
+    "bgm": "your-licensed-bgm.mp3"
+  },
+  "render": {
+    "width": 720,
+    "height": 960,
+    "fps": 30,
+    "maximumDurationSeconds": 210
+  }
+}

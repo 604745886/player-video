@@ -1,0 +1,7 @@
+{
+  "id": "footballer",
+  "seriesLabel": "三分钟认识一位足球明星",
+  "chapters": ["hook", "identity", "academy", "breakthrough", "signature", "turning_point", "legacy"],
+  "researchSources": ["club", "league", "federation", "first_person"],
+  "forbiddenMedia": ["broadcast_frames", "club_logos", "social_downloads"]
+}

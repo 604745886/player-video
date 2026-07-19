@@ -1,0 +1,7 @@
+{
+  "id": "nba_player",
+  "seriesLabel": "三分钟认识一位NBA球星",
+  "chapters": ["hook", "identity", "origin", "volatility", "award", "finals", "gaffe", "restart", "legacy"],
+  "researchSources": ["NBA", "team", "school", "first_person"],
+  "forbiddenMedia": ["broadcast_frames", "league_logos", "team_logos", "social_downloads"]
+}

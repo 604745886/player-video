@@ -1,0 +1,10 @@
+asset_id,kind,source_type,local_path,license,rights_status,notes
+hero-title,image,ai_generated,episodes/matthew-dellavedova-3m/images/hero-title.png,provider_terms,cleared,"原创人物氛围图，无Logo"
+hook-defense,image,ai_generated,episodes/matthew-dellavedova-3m/images/finals-defense.png,provider_terms,cleared,"原创防守场景独立实例，无球队标"
+grind-defense,image,ai_generated,episodes/matthew-dellavedova-3m/images/finals-defense.png,provider_terms,cleared,"原创追防场景独立实例，无球队标"
+finals-defense,image,ai_generated,episodes/matthew-dellavedova-3m/images/finals-defense.png,provider_terms,cleared,"原创总决赛氛围场景，无球队标"
+origin-campus,image,ai_generated,episodes/matthew-dellavedova-3m/images/origin-undrafted.png,provider_terms,cleared,"原创大学通道场景，无校徽"
+undrafted-door,image,ai_generated,episodes/matthew-dellavedova-3m/images/origin-undrafted.png,provider_terms,cleared,"原创落选章节独立实例，无选秀Logo"
+cost-recovery,image,ai_generated,episodes/matthew-dellavedova-3m/images/cost-recovery.png,provider_terms,cleared,"原创赛后恢复场景，无医学夸张"
+legacy-road,image,ai_generated,episodes/matthew-dellavedova-3m/images/legacy-road.png,provider_terms,cleared,"原创生涯延续场景，无奥运标志"
+last-possession,image,ai_generated,episodes/matthew-dellavedova-3m/images/legacy-road.png,provider_terms,cleared,"原创片尾独立实例，无Logo"

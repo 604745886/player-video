@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "scenes": [
+    { "id": "hook-statline", "chapter": "hook", "assetId": "hook-defense", "kicker": "BEYOND THE BOX SCORE", "stat": "9·5·3", "label": "GAME 2", "title": "技术统计，写不下一个回合有多长", "layout": "hero", "motion": "slow-push", "drift": [-10, 6] },
+    { "id": "identity-name", "chapter": "identity", "assetId": "hero-title", "kicker": "MATTHEW DELLAVEDOVA", "stat": "DEL", "label": "DELLY", "title": "把每个回合，打到最后一厘米", "layout": "stat-left", "motion": "focus-pull", "drift": [8, -5] },
+    { "id": "origin-campus", "chapter": "origin", "assetId": "origin-campus", "kicker": "2009—13 / SAINT MARY'S", "stat": "1933", "label": "POINTS", "title": "四年大学生涯，不是突然出现", "layout": "timeline", "motion": "vertical-pan", "drift": [10, -10] },
+    { "id": "undrafted-emptyboard", "chapter": "undrafted", "assetId": "undrafted-door", "kicker": "2013 / UNDRAFTED", "stat": "0", "label": "DRAFT PICK", "title": "没有顺位，还有下一场比赛", "layout": "shadow", "motion": "horizontal-pan", "drift": [-14, 2] },
+    { "id": "grind-loop", "chapter": "grind", "assetId": "grind-defense", "kicker": "SECOND EFFORT", "stat": "+1", "label": "NEXT MOVE", "title": "有限时间里，留下可信任的回合", "layout": "split", "motion": "slow-push", "drift": [12, 8] },
+    { "id": "finals-g2-clock", "chapter": "finals", "assetId": "finals-defense", "kicker": "2015 / FINALS", "stat": "20", "label": "GAME 3 POINTS", "title": "最高舞台，把每次出手变得更难", "layout": "climax", "motion": "gold-flash", "drift": [8, 10] },
+    { "id": "cost-cramp", "chapter": "cost", "assetId": "cost-recovery", "kicker": "AFTER GAME 3", "stat": "39", "label": "MINUTES", "title": "身体给出的直接回应", "layout": "warm", "motion": "focus-pull", "drift": [-6, 5] },
+    { "id": "legacy-ring", "chapter": "legacy", "assetId": "legacy-road", "kicker": "CHAMPION / BOOMER", "stat": "4", "label": "OLYMPICS", "title": "冠军、回归与四届奥运", "layout": "data", "motion": "slow-push", "drift": [-8, 12] },
+    { "id": "last-bronze", "chapter": "last_possession", "assetId": "last-possession", "kicker": "THE NEXT POSSESSION", "stat": "→", "label": "STILL MOVING", "title": "统计表合上，路线继续伸向下一回合", "layout": "ending", "motion": "gentle-drift", "drift": [5, -7] }
+  ]
+}

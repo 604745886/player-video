@@ -1,0 +1,7 @@
+asset_id,prompt_summary,tool,source,review_status
+hero-title,"深色球馆中的成熟篮球后卫肖像，酒红阴影与金色轮廓，无Logo",imagegen,existing-player-mvp,approved
+young-pro,"年轻球员从通道走向球场，强背光，无Logo",imagegen,existing-player-mvp,approved
+volatile-scorer,"得分手肖像与奖项氛围，金色颗粒，无Logo",imagegen,existing-player-mvp,approved
+game-seven,"抢七第三节投篮瞬间的原创戏剧化插画，无Logo",imagegen,existing-player-mvp,approved
+college-restart,"退役球员带高尔夫球包走入校园，无校徽",imagegen,existing-player-mvp,approved
+gaffe-shadow,"比赛结束后的空场，老将持球望向记分牌，下半部字幕留白",imagegen,built-in-imagegen,approved
